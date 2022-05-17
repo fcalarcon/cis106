@@ -91,6 +91,7 @@ sudo apt autoremove
 
 ### Navigating the filesystem 
 
+![shorcuts](shorcuts2.png)<br>
 
 ### Managing files and directories 
 
